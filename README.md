@@ -4,11 +4,11 @@ Basic steganography built in Processing. Creates two output images: one using LS
 
 Completed for my Computer and Multimedia Network Security class.
 
-###Original image:
+### Original image:
 ![original image](original.jpg)
 
-###LSB image:
+### LSB image:
 ![lsb](lsb.jpg)
 
-###MSB image:
+### MSB image:
 ![msb](msb.jpg)
